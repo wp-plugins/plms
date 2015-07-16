@@ -1,5 +1,5 @@
 === Property Lot Management System ===
-Contributors: aditya.dugar
+Contributors: Myriad Solutionz
 Donate link: http://myriadsolutionz.com/
 Tags: property,lot,realestate
 Requires at least: 3.0.1
