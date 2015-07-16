@@ -1,0 +1,91 @@
+
+.lot_form-horizontal{width:500px;}
+.lot_form-group { border:1px solid #666; border-radius:5px; padding:5px; margin-bottom:5px;	}
+.lot_add-txt { 	float:right; padding-right:10px; }
+.lot_remove-txt { 	float:right; padding-right:10px; }
+.span4 .first img{padding: 3px 5px 2px; float:left}
+.span4 .first{float:left; border:1px solid #666; border-radius:5px; /*width:40.33%;*/ background: none repeat scroll 0 0 #f7f7f7;			
+			box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08); margin:5px;}
+.span4  .first a{text-decoration:none;font-size:14px;}
+.span4 .first span { margin-left:5px; vertical-align:sub;}
+.span4 .second{float:right;}
+
+#wp-lot_description-wrap{ width:500px !important; }
+
+	tbody tr:hover{background-color:#FFDFDF}
+    
+.form-horizontal{width:500px;}
+#wp-pro_description-wrap{ width:500px !important; }
+
+.form-group { border:1px solid #666; border-radius:5px; padding:5px; margin-bottom:5px;	}
+.add-txt { 	float:right; padding-right:10px; }
+.remove-txt { 	float:right; padding-right:10px; }
+.span4 .first img{padding: 3px 5px 2px; float:left}
+.span4 .first{float:left; border:1px solid #666; border-radius:5px; /*width:40.33%;*/ background: none repeat scroll 0 0 #f7f7f7;			
+			box-shadow: 0 1px 0 #fff inset, 0 1px 0 rgba(0, 0, 0, 0.08); margin:5px;}
+.span4  .first a{text-decoration:none;font-size:14px;}
+.span4 .first span { margin-left:5px; vertical-align:sub;}
+.span4 .second{float:right;}
+
+
+.lot-bar{
+	padding: 11px;
+	border: 1px solid #E2E2E2;
+	background: #EEEEEE;
+	margin-top: 6px;
+	cursor: pointer;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+.lot-details {
+border: 1px solid #EEEEEE;
+border-top: none;
+}
+.lot-status-bar.sold {
+background: #FF5454;
+}
+.detail-row-first {
+padding: 20px 20px 0px 20px;
+}
+.row-fluid {
+width: auto!important;
+}
+.row-fluid {
+width: auto!important;
+}
+.row-fluid [class*="span"] {
+min-height: 0!important;
+}
+.row-fluid .span6 {
+width: 48.717948718%;
+}
+.row-fluid .span4 {
+width: 31.623931624%;
+}
+h3.hl-title {
+text-align: center;
+font-size: 18x;
+font-weight: normal;
+color: #888;
+}
+h3.hl-price {
+text-align: center;
+font-size: 36px;
+margin-top: 10px;
+}
+.detail-row {
+padding: 20px 20px 20px 20px;
+}
+.row-fluid [class*="span"]:first-child {
+margin-left: 0;
+}
+.row-fluid [class*="span"]:first-child {
+margin-left: 0;
+}
+.row-fluid .span8 {
+width: 65.81196581200001%;
+}
+.content-container h3 {
+margin: 20px 0 0;
+font-size: 18px;
+}
