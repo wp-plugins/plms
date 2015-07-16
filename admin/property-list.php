@@ -115,7 +115,7 @@ class My_Property_List extends WP_List_Table
             $redirect_url = add_query_arg(array('page' => 'list_property'), admin_url('admin.php'));
             if (isset($_GET['property']))
             {
-                $action_on_id = sanitize_text_field($_GET['property']);
+                $action_on_id = $_GET['property'];
             } else
             {
                 $action_on_id = array();

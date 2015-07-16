@@ -163,7 +163,7 @@ class Lots_List_Table extends WP_List_Table
             $redirect_url = add_query_arg(array('page' => 'list_lot'), admin_url('admin.php'));
             if (isset($_GET['lot']))
             {
-                $action_on_id = sanitize_text_field($_GET['lot']);
+                $action_on_id = $_GET['lot'];
             }
             else
             {
